@@ -1,0 +1,1 @@
+# condicionais_algoritimo_traducao_para_javascript
